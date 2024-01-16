@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Chip-Component-React/static/css/main.e6c13ad2.css",
+    "main.js": "/Chip-Component-React/static/js/main.9233f149.js",
+    "static/js/787.35b64dee.chunk.js": "/Chip-Component-React/static/js/787.35b64dee.chunk.js",
+    "static/media/popcorn.jpg": "/Chip-Component-React/static/media/popcorn.5460021ba1aea35c25a4.jpg",
+    "index.html": "/Chip-Component-React/index.html",
+    "main.e6c13ad2.css.map": "/Chip-Component-React/static/css/main.e6c13ad2.css.map",
+    "main.9233f149.js.map": "/Chip-Component-React/static/js/main.9233f149.js.map",
+    "787.35b64dee.chunk.js.map": "/Chip-Component-React/static/js/787.35b64dee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9233f149.js"
+  ]
+}
